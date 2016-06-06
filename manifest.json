@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Replace strings",
-    "version": "1.0",
-    "description": "It replaces the occurences of 'refugee', 'refugees' to 'human', 'humans'",
+    "name": "Un-Transcender",
+    "version": "0.1",
+    "description": "makes backhandedly nice articles about non-white people more accurate. by @dexdigi",
     "content_scripts": [
         {
             "matches": [
