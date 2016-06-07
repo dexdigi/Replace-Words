@@ -18,7 +18,10 @@ for (var i = 0; i < elements.length; i++) {
             replacedText = replacedText.replace(/transcending race/g, "being retroactively deemed safe by white people");
             replacedText = replacedText.replace(/transcending racial/g, "being retroactively deemed safe by white people");
             replacedText = replacedText.replace(/Transcend Race/g, "be retroactively deemed safe by white people");
-            replacedText = replacedText.replace(/transcend race/g, "be retroactively deemed safe by white people");
+            replacedText = replacedText.replace(/transcended racial boundaries/g, "was retroactively deemed safe by white people");
+            replacedText = replacedText.replace(/transcend racial boundaries/g, "be retroactively deemed safe by white people");
+
+
 
 
             if (replacedText !== text) {
